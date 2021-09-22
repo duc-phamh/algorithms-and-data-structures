@@ -1,6 +1,6 @@
 # Algorithms and data structures
 
-This is my implementation of some optimization algorithms, along with their example problems:
+This is my implementation of some algorithms and data structures, along with their example problems:
 
 * Binary and ternary search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m6WlTbrPjjgf2A7jwBeVTqL2vxaKYjMp?usp=sharing)
 * Stack and queue [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lww8GwbQxXXQKmwGj-bAHZUq00az7NNy?usp=sharing)
